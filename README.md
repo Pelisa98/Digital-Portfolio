@@ -13,7 +13,7 @@
 - Completed the Career Development module and scored 80%.
 - Learned about goal-setting, career planning, and distinguishing soft vs. hard skills.
 
-![Career Counselling Quiz](career-development-quiz.png)
+![Career Counselling Quiz](career_development.png)
 
 ### ✍️ Reflection (STAR)
 **S:** I completed a quiz that tested my understanding of career planning and counselling.  
@@ -25,16 +25,19 @@
 
 ##  Skills and Interests
 
-###  Evidence
-- **Technical:** Java, HTML, CSS, JavaScript, SQL, Git, GitHub, Figma, SQLite, PHP  
-- **Soft Skills:** Teamwork, problem-solving, time management, explaining concepts  
-- **Interests:** Web and mobile app development, data analytics
+### Evidence
+- Completed the **Skills and Interests** module with a score of 100%.
+- Learned about different types of skills: technical, soft, and transferable.
+- Gained insights into how **values** and **interests** influence career choices.
+
+![Skills and Interests Quiz](Personality_Assessment.png)
 
 ### ✍️ Reflection (STAR)
-**S:** In my group projects, especially the e-commerce website, I was the team leader.  
-**T:** I needed to guide my team while also contributing technically.  
-**A:** I built the homepage, integrated the shopping cart, and helped others understand technical tasks.  
-**R:** I strengthened both my leadership and technical skills, and learned I enjoy working in web development and UI/UX.
+**S:** I completed a quiz about the difference between skills, interests, and values in the workplace.  
+**T:** I needed to understand how my skills and personal values align with career paths.  
+**A:** I learned that skills can be technical or transferable (like problem-solving or communication), and that interests are activities I enjoy doing, which influence job satisfaction. I also learned how values like honesty, creativity, and achievement guide my career decisions.  
+**R:** I now better understand how to match my skills and interests with the right roles, and I feel more confident identifying career paths that align with my personal values.
+
 
 ---
 
@@ -44,7 +47,7 @@
 - Completed the Personality Assessment quiz with a score of 100%.
 - Learned about career alignment for personality types (e.g., Realistic, Artistic, Conventional).
 
-![Personality Assessment Quiz](personality-assessment.png)
+![Personality Assessment Quiz](Personality_Assessment.png)
 
 ### ✍️ Reflection (STAR)
 **S:** I completed an online personality quiz that linked traits to career types.  
@@ -60,7 +63,7 @@
 - Completed the "Create a CV" module with a score of 80%.
 - Learned about structuring work experience, listing skills, and writing clear job objectives.
 
-![CV Creation Quiz](cv-creation-quiz.png)
+![CV Creation Quiz](create_cv.png)
 
 ### ✍️ Reflection (STAR)
 **S:** I took a CV creation quiz and studied the structure of professional CVs.  
@@ -75,7 +78,7 @@
 ###  Evidence
 - Successfully submitted my final CV to Blackboard as part of the work readiness task.
 
-![CV Submission Screenshot](cv-submission.png)
+![CV Submission Screenshot](CV_Submission.png)
 
 ### ✍️ Reflection (STAR)
 **S:** Part of the assessment required us to upload our CV.  
