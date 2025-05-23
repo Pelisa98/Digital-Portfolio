@@ -78,7 +78,7 @@
 ###  Evidence
 - Successfully submitted my final CV to Blackboard as part of the work readiness task.
 
-![CV Submission Screenshot](CV_Submission.png)
+![view my CV](PelisaPaliCV.pdf)
 
 ### ✍️ Reflection (STAR)
 **S:** Part of the assessment required us to upload our CV.  
