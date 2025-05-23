@@ -3,7 +3,7 @@
 **Qualification:** Diploma in ICT – Application Development  
 **Institution:** Cape Peninsula University of Technology (CPUT)  
 **Year:** 3rd Year (2025)  
-**Student Number:** [217189113]  
+**Student Number:** 217189113  
 
 ---
 
@@ -15,7 +15,7 @@
 
 ![Career Counselling Quiz](career_development.png)
 
-### ✍️ Reflection (STAR)
+###  Reflection (STAR)
 **S:** I completed a quiz that tested my understanding of career planning and counselling.  
 **T:** I needed to understand how to set goals, the value of career development, and identify hard vs. soft skills.  
 **A:** I read through the career material and completed the assessment.  
@@ -32,7 +32,7 @@
 
 ![Skills and Interests Quiz](Personality_Assessment.png)
 
-### ✍️ Reflection (STAR)
+###  Reflection (STAR)
 **S:** I completed a quiz about the difference between skills, interests, and values in the workplace.  
 **T:** I needed to understand how my skills and personal values align with career paths.  
 **A:** I learned that skills can be technical or transferable (like problem-solving or communication), and that interests are activities I enjoy doing, which influence job satisfaction. I also learned how values like honesty, creativity, and achievement guide my career decisions.  
@@ -49,7 +49,7 @@
 
 ![Personality Assessment Quiz](Personality_Assessment.png)
 
-### ✍️ Reflection (STAR)
+###  Reflection (STAR)
 **S:** I completed an online personality quiz that linked traits to career types.  
 **T:** I had to assess how my personality fits different roles.  
 **A:** I discovered that I’m analytical, responsible, and helpful — but not confident in public speaking.  
@@ -65,7 +65,7 @@
 
 ![CV Creation Quiz](create_cv.png)
 
-### ✍️ Reflection (STAR)
+###  Reflection (STAR)
 **S:** I took a CV creation quiz and studied the structure of professional CVs.  
 **T:** My task was to create a CV highlighting my education, experience, and skills.  
 **A:** I wrote a clean, structured CV with accurate job experience, technical and soft skills.  
